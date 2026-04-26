@@ -2,6 +2,9 @@
 
 this is a non-jailbreak touch macro engine and autoclicker for ios. it uses private uikit and iohid apis to inject hardware lvl touch events directly into the app, so you don't need a jailbreak for it to work.
 
+[![watch the video]([https://youtube.com](https://youtu.be/Y-tZsFBItsg?si=HWbEjDHzTlodmCX7))]([https://youtu.be])
+
+
 ### what it is
 - **macros**: record your own gestures ( swipes, taps, multi finger moves ) and play them back at up to 100x speed.
 - **autoclicker**: set multiple targets on your screen and cycle through them with custom clicls.
